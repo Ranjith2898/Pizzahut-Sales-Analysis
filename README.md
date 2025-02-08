@@ -28,10 +28,10 @@ The **Schema Diagram (`Schema_diagram.png`)** visually represents the relationsh
    - `Basic Queries.sql` – Simple data retrieval queries.
    - `Intermediate Queries.sql` – Aggregation and filtering operations.
    - `Advanced Queries.sql` – Complex joins and analytical queries.
-4. **Use SQL tools** like MySQL, PostgreSQL, or SQLite to explore the data.
+4. **Use SQL tools** like MySQL to explore the data.
 
 ## 🖥️ Tools Used
-- **SQL (MySQL / PostgreSQL / SQLite)** for data storage and analysis.
+- **SQL (MySQL)** for data storage and analysis.
 - **DB Browser / MySQL Workbench** for query execution and visualization.
 
 ## 📎 Files in Repository
